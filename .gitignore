@@ -1,0 +1,15 @@
+# Ignore Qt build artifacts
+build/
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
