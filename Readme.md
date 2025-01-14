@@ -79,13 +79,9 @@ Build the project:
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 
 For any queries or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: 144singhsarthak@gmail.com
+- **GitHub**: [sarthakk1890](https://github.com/sarthakk1890)
